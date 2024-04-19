@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 ## About me 🌱
 
-I'm passionate about harnessing the power of data to uncover valuable insights and drive informed decision-making. As a data analyst, my expertise lies in converting intricate datasets into actionable intelligence through the application of statistical analysis, data visualization, and machine learning methodologies.
+- Passionate data analyst with skills in statistical analysis, data visualization, and machine learning 💪
+- Detail-oriented problem solver adept at spotting patterns and trends in complex data sets 🎯
+- Continuously seek opportunities to expand skill sets and stay up to date with emerging technologies in the field of data analytics 😎
 
 ## I'm currently working on 🚴🏻‍♀
 
