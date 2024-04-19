@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 ## I'm currently working on 🚴🏻‍♀
 
-
+- Improving my data wrangling and analysis skills using Python and PySpark.
+- Utilizing tools like Tableau and Power BI to visualize datasets and communicate insights effectively.
+- Learning about database platforms such as Oracle, Azure, MySQL, and PostgreSQL to broaden my understanding of data management and storage solutions.
 
 ## Languages and tools 🔭
 <p align="center">
