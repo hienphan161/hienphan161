@@ -1,4 +1,4 @@
-<h2  align="center"> Hi! I'm Hien Phan 👋 Welcome to my profile! 
+<h2  align="center"> Hey there 👋, I'm Hien Phan!
 
 <!--
 **hienphan161/hienphan161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 ## About me 🌱
 
+I'm passionate about harnessing the power of data to uncover valuable insights and drive informed decision-making. As a data analyst, my expertise lies in converting intricate datasets into actionable intelligence through the application of statistical analysis, data visualization, and machine learning methodologies.
+
 ## I'm currently working on 🚴🏻‍♀
+
+
 
 ## Languages and tools 🔭
 <p align="center">
