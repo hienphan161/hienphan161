@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - Utilizing Tableau and Power BI for interactive dashboards and storytelling with data.
 - Deepening SQL skills for querying and manipulating data within relational databases.
 - Practicing data modeling to design efficient database schemas and optimize query performance.
-- Exploring cloud-based data solutions (Oracle Cloud, Azure, AWS).
+- Exploring cloud-based data solutions (Oracle Cloud, Azure, AWS) to broaden understanding of data management and storage solutions.
 - Exploring NoSQL databases like MongoDB and Cassandra for unstructured data handling.
 
 ## Languages and tools 🔭
