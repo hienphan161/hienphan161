@@ -24,10 +24,12 @@ Here are some ideas to get you started:
 ## I'm currently working on 🚴🏻‍♀
 
 - Improving data preprocessing and manipulation with Python.
-- Experimenting with PySpark for large-scale dataset handling.
-- Utilizing Tableau and Power BI for interactive dashboard creation.
-- Deepening SQL skills for efficient database querying.
-- Exploring cloud-based data solutions like Oracle Cloud and Azure.
+- Experimenting with PySpark to handle large-scale datasets and optimize data processing workflows.
+- Utilizing Tableau and Power BI for interactive dashboards and storytelling with data.
+- Deepening SQL skills for querying and manipulating data within relational databases.
+- Practicing data modeling to design efficient database schemas and optimize query performance.
+- Exploring cloud-based data solutions (Oracle Cloud, Azure, AWS).
+- Exploring NoSQL databases like MongoDB and Cassandra for unstructured data handling.
 
 ## Languages and tools 🔭
 <p align="center">
