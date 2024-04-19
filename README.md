@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## Languages and tools 🔭
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,kotlin,gcp,kubernetes,redis,docker,kafka,grafana,postman,figma,anaconda,vscode,git,github,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=py,kotlin,gcp,kubernetes,redis,docker,kafka,grafana,postman,figma,anaconda,vscode" />
   </a>
 </p>
 
