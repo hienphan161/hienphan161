@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ## About me 🌱
 
-## I'm currently working on 🚴🏻‍♀️
+## I'm currently working on 🚴🏻‍♀
 
-## Languages and tools 
+## Languages and tools 🔭
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,kotlin,gcp,kubernetes,redis,docker,kafka,grafana,postman,figma,anaconda,vscode,git,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=py,kotlin,gcp,kubernetes,redis,docker,kafka,grafana,postman,figma,anaconda,vscode,git,github,ubuntu" />
   </a>
 </p>
 
