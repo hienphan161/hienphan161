@@ -1,4 +1,6 @@
-## Hey there 👋, I'm [Hien Phan!](https://github.com/hienphan161/)
+<h2  align="center"> Hey there 👋, I'm [Hien Phan](https://github.com/hienphan161/)!
+
+### Glad to see you here!  
 
 <!--
 **hienphan161/hienphan161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
