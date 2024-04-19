@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## I'm currently working on 🚴🏻‍♀
 
-- Improving data preprocessing and manipulation with Pandas and NumPy.
+- Improving data preprocessing and manipulation with Python.
 - Experimenting with PySpark for large-scale dataset handling.
 - Utilizing Tableau and Power BI for interactive dashboard creation.
 - Deepening SQL skills for efficient database querying.
