@@ -1,4 +1,4 @@
-## Hey there 👋, I'm [Hien Phan](https://github.com/hienphan161/)!
+<h2  align="center"> Hey there, I'm Hien Phan 👋
 
 ### Glad to see you here!  
 
